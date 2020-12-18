@@ -1,6 +1,6 @@
 ### Hi, I'm Francisco Rodríguez Cala 👋
 
-- 🔭 I’m currently working on ![Somos Grupo Mas](https://www.somosgrupomas.com/)
+- 🔭 I’m currently working on [Somos Grupo Mas](https://www.somosgrupomas.com/)
 
 <!--
 **meetworks/meetworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
